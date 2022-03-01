@@ -1,8 +1,8 @@
-# DALER LOX
+# DALER LOX {#organisations}
 
 There are three economic currencies in the game: "Rubl", "Cigarettes", "Food", as well as two resources: "Authority", "Energy" and one indicator "Level". All of these parameters will interact with each other and create an economic balance. 
 
-# About the game
+# About the game {#about-the-game}
 
 This introductory paper was originally published in 2013 by Vitalik Buterin, the founder of Ethereum, before the project's launch in 2015. It's worth noting that Ethereum, like many community-driven, open-source software projects, has evolved since its initial inception.
 
