@@ -1,4 +1,4 @@
-# Convicted Whitepaper
+# DALER LOX
 
 There are three economic currencies in the game: "Rubl", "Cigarettes", "Food", as well as two resources: "Authority", "Energy" and one indicator "Level". All of these parameters will interact with each other and create an economic balance. 
 
