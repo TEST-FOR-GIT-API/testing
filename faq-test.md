@@ -8,4 +8,4 @@ This introductory paper was originally published in 2013 by Vitalik Buterin, the
 
 While several years old, we maintain this paper because it continues to serve as a useful reference and an accurate representation of Ethereum and its vision. To learn about the latest developments of Ethereum, and how changes to the protocol are made, we recommend this guide. 
 
-![Economic](/images/economic 1.svg)
+![Economic](images/economic 1.svg)
