@@ -17,7 +17,7 @@
 
 
 
-| Allocation type | Total allocation | % of total | test | что-то | хз-уже если честно |
+| Allocation type | Total allocation | % of total | test | some   | i dont know        |
 |-----------------|------------------|------------|------|--------|--------------------|
 | Seed round      | 31 000 000,00    | 31,00 %    |test  |1234.   |       Blocked      |
 | Private round   | 9 000 000,00     | 9,00 %     | test |2345    |        800         |
