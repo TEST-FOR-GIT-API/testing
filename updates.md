@@ -2,7 +2,7 @@
 
 ## Aghanim's Labyrinth: The Continuum Conundrum - Gameplay Patch ##
 
-### Heroes ### 
+### Heroes ###
 
 text
    - First item
