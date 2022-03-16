@@ -1,9 +1,7 @@
-###### January 20, 2020 ######
+###### January 21, 2020 ######
 
 ## Aghanim's Labyrinth: The Continuum Conundrum - Gameplay Patch ##
-
-### Heroes ###
-
+### test ###
 text
    - First item
 second
